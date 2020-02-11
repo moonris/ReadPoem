@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".activity.MainActivity">
+    <item
+        android:id="@+id/menu_favorite"
+        android:orderInCategory="100"
+        android:title="@string/favorite"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/menu_night_mode"
+        android:orderInCategory="100"
+        android:title="@string/night_mode"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/menu_daylight_mode"
+        android:orderInCategory="100"
+        android:title="@string/daylight_mode"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/menu_check_updates"
+        android:orderInCategory="100"
+        android:title="@string/check_updates"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/menu_about"
+        android:orderInCategory="100"
+        android:title="@string/about"
+        app:showAsAction="never"/>
+</menu>

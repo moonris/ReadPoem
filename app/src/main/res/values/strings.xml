@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">读·诗</string>
+    <string name="action_settings">设置</string>
+    <string name="check_updates">检查更新</string>
+    <string name="favorite">我的收藏</string>
+
+    <!--白天，晚上-->
+    <string name="night_mode">夜间模式</string>
+    <string name="daylight_mode">白天模式</string>
+
+    <string name="about">关于</string>
+    <string name="main_title">上李邕</string>
+    <string name="main_author">李白</string>
+    <string name="main_context">
+        大鹏一日同风起\n扶摇直上九万里\n假令风歇时下来\n犹能簸却沧溟水\n世人见我恒殊调\n闻余大言皆冷笑\n宣父犹能畏后生\n丈夫未可轻年少
+    </string>
+
+</resources>
